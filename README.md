@@ -1,16 +1,16 @@
-## Hi there 👋
+## 你好，我是 BergAIhub 👋
 
-<!--
-**BergAIhub/BergAIhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **西安交通大学** · 电子信息硕士在读  
+🔬 深耕 **AI Agent 智能体系统** · 探索 LLM 与自主决策的边界  
+⚡ 致力于让机器理解意图、自主行动、创造价值
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 正在探索
+- 多智能体协作架构 (Multi-Agent Systems)
+- LLM 工具调用与自主规划 (Tool Use & Planning)
+- Agent 记忆机制与长期上下文管理
+
+
+### 💬 欢迎交流
+- Agent 架构设计、Prompt Engineering、AI 产品化路径
