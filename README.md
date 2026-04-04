@@ -4,16 +4,11 @@
 欢迎来到我的 GitHub 主页！我是 **西安交通大学** 的硕士生，专注于 **AI Agent 智能体系统** —— 探索大模型与自主决策的能力边界。
 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=AI+Agent+研究者;大模型+自主决策+探索者;西交大+%7C+硕士在读" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/西安交通大学-硕士在读-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agent-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/持续学习-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 ---
 
 ## 🔭 我在做什么
