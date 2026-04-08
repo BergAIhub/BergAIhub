@@ -12,7 +12,7 @@
 
 ## 🔭 我在做什么
 
-> **Agent is all you need** —— 研究开发最前沿的agent系统！
+> **Agent is all you need** 
 
 ---
 
