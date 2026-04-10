@@ -1,6 +1,6 @@
 ### 你好，我是 Berg  👋
 
-欢迎来到我的 GitHub 主页！目前是**西安交通大学**的一位在读硕士，我目前专注于 **AI Agent 智能体系统** —— 探索大模型与自主决策的能力边界。
+欢迎来到我的 GitHub 主页！我目前专注于 **AI Agent 智能体系统** —— 探索大模型与自主决策的能力边界。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent-2E8B57?style=for-the-badge&logo=openai&logoColor=white" />
